@@ -1,0 +1,3 @@
+# -
+自定义模态视图和导航控制器的动画通
+通过遵守UIViewControllerAnimatedTransitionging 协议来改变原有动画效果来实现自定义转场动画
